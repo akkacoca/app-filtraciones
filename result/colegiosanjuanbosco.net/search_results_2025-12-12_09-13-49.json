@@ -1,0 +1,172 @@
+{
+    "search_metadata": {
+        "id": "693bc6be529e4bc51d80b3d8",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/9df8d5d41c861035/693bc6be529e4bc51d80b3d8.json",
+        "pixel_position_endpoint": "https://serpapi.com/searches/9df8d5d41c861035/693bc6be529e4bc51d80b3d8.json_with_pixel_position",
+        "created_at": "2025-12-12 07:39:42 UTC",
+        "processed_at": "2025-12-12 07:39:42 UTC",
+        "google_url": "https://www.google.com/search?q=colegiosanjuanbosco.net&oq=colegiosanjuanbosco.net&num=10&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/9df8d5d41c861035/693bc6be529e4bc51d80b3d8.html",
+        "total_time_taken": 1.34
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "colegiosanjuanbosco.net",
+        "google_domain": "google.com",
+        "num": "10",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "colegiosanjuanbosco.net",
+        "total_results": 364000,
+        "time_taken_displayed": 0.27,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Colegio San Juan Bosco",
+            "link": "https://colegiosanjuanbosco.net/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://colegiosanjuanbosco.net/&ved=2ahUKEwiAxoLrxbeRAxVDgP0HHa4lEYcQFnoECCMQAQ",
+            "displayed_link": "https://colegiosanjuanbosco.net",
+            "favicon": "https://serpapi.com/searches/693bc6be529e4bc51d80b3d8/images/6737f7f28636479db3a311228bb1a841e3ead9b2213b4acdf03853ffbdcbbc18.png",
+            "snippet": "Inicio; El centro. Nuestro colegio; Ense\u00f1anzas. Infantil \u00b7 Primaria \u00b7 Secundaria \u00b7 Bachillerato \u00b7 Ideario del centro.",
+            "sitelinks": {
+                "expanded": [
+                    {
+                        "title": "Calendario escolar",
+                        "link": "https://colegiosanjuanbosco.net/calendario-escolar/",
+                        "snippet": "Contacte con nosotros: Tel\u00e9fono: 916 755 196; Calle del Hierro ..."
+                    },
+                    {
+                        "title": "Men\u00fa del mes",
+                        "link": "https://colegiosanjuanbosco.net/menu-del-mes/",
+                        "snippet": "Contacte con nosotros: Tel\u00e9fono: 916 755 196; Calle del Hierro ..."
+                    },
+                    {
+                        "title": "Noticias",
+                        "link": "https://colegiosanjuanbosco.net/noticias-del-colegio/",
+                        "snippet": "Contacte con nosotros: Tel\u00e9fono: 916 755 196; Calle del Hierro ..."
+                    },
+                    {
+                        "title": "Oferta educativa",
+                        "link": "https://colegiosanjuanbosco.net/oferta-educativa/",
+                        "snippet": "Direcci\u00f3n completa, Calle Hierro, 41. Calle Hierro, 44. Torrej\u00f3n ..."
+                    },
+                    {
+                        "title": "Extraescolares formulario de ...",
+                        "link": "https://colegiosanjuanbosco.net/extraescolares_form/",
+                        "snippet": "ACTIVIDADES EXTRAESCOLARES. Aquellos ..."
+                    }
+                ]
+            },
+            "source": "Colegio San Juan Bosco"
+        },
+        {
+            "position": 2,
+            "title": "Acceso al Sistema de Gesti\u00f3n Colegio Parroquial San Juan ...",
+            "link": "https://sanjuanbosco.ar/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sanjuanbosco.ar/&ved=2ahUKEwiAxoLrxbeRAxVDgP0HHa4lEYcQFnoECBoQAQ",
+            "displayed_link": "https://sanjuanbosco.ar",
+            "snippet": "Colegio Parroquial San Juan Bosco. Usuario. Contrase\u00f1a. Mantener sesi\u00f3n. Acceder.",
+            "snippet_highlighted_words": [
+                "Colegio Parroquial San Juan Bosco"
+            ],
+            "source": "Colegio Parroquial San Juan Bosco"
+        },
+        {
+            "position": 3,
+            "title": "Acceder - COLEGIO SAN JUAN BOSCO",
+            "link": "https://www.colegiosanjuanbosco.edu.pe/intranet/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.colegiosanjuanbosco.edu.pe/intranet/&ved=2ahUKEwiAxoLrxbeRAxVDgP0HHa4lEYcQFnoECBkQAQ",
+            "displayed_link": "https://www.colegiosanjuanbosco.edu.pe \u203a ...",
+            "favicon": "https://serpapi.com/searches/693bc6be529e4bc51d80b3d8/images/6737f7f28636479db3a311228bb1a841a969787901f8c7f11925481c8d11a6ab.png",
+            "snippet": "Accede a tu cuenta. 1 2 3. 4 5 6. 7 8 9. 0. Acceder. Recupera tu contrase\u00f1a \u00b7 \u00bfNecesitas ayuda? T\u00e9rminos y Condiciones Inscripciones. App disponible para",
+            "snippet_highlighted_words": [
+                "Accede a tu cuenta"
+            ],
+            "source": "colegiosanjuanbosco.edu.pe"
+        },
+        {
+            "position": 4,
+            "title": "Colegio San Juan Bosco Torrej\u00f3n de Ardoz",
+            "link": "https://www.facebook.com/p/Colegio-San-Juan-Bosco-Torrej%C3%B3n-de-Ardoz-100090302672876/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/p/Colegio-San-Juan-Bosco-Torrej%25C3%25B3n-de-Ardoz-100090302672876/&ved=2ahUKEwiAxoLrxbeRAxVDgP0HHa4lEYcQFnoECB8QAQ",
+            "displayed_link": "110+ followers",
+            "favicon": "https://serpapi.com/searches/693bc6be529e4bc51d80b3d8/images/6737f7f28636479db3a311228bb1a841d208d919d44b59453d81effbe34d29c5.png",
+            "snippet": "En San Juan Bosco llevamos m\u00e1s de 50 a\u00f1os formando personas con valores, excelencia y compromiso. Ven a conocernos en persona: solicita tu visita y descubre ...",
+            "source": "Facebook \u00b7 Colegio San Juan Bosco Torrej\u00f3n de Ardoz"
+        },
+        {
+            "position": 5,
+            "title": "Colegio San Juan Bosco \u2013 \u00c1rbol Bonito",
+            "link": "https://laspalmassanjuanbosco.salesianas.org/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://laspalmassanjuanbosco.salesianas.org/&ved=2ahUKEwiAxoLrxbeRAxVDgP0HHa4lEYcQFnoECDEQAQ",
+            "displayed_link": "https://laspalmassanjuanbosco.salesianas.org",
+            "favicon": "https://serpapi.com/searches/693bc6be529e4bc51d80b3d8/images/6737f7f28636479db3a311228bb1a841cad1808a580d9950f83691e3c8bb6c59.png",
+            "snippet": "El Colegio San Juan Bosco - \u00c1rbol Bonito es un centro privado concertado que abarca las etapas de Infantil, Primaria, Secundaria y FP.",
+            "snippet_highlighted_words": [
+                "Colegio San Juan Bosco"
+            ],
+            "source": "Colegio San Juan Bosco \u2013 \u00c1rbol Bonito"
+        },
+        {
+            "position": 6,
+            "title": "educa.city",
+            "link": "https://www.educa.city/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.educa.city/&ved=2ahUKEwiAxoLrxbeRAxVDgP0HHa4lEYcQFnoECDAQAQ",
+            "displayed_link": "https://www.educa.city",
+            "favicon": "https://serpapi.com/searches/693bc6be529e4bc51d80b3d8/images/6737f7f28636479db3a311228bb1a8410bd350af2584c79b6e656f08c7790ff3.png",
+            "snippet": "Conecta con tu comunidad educativa y haz que tus clases virtuales sean m\u00e1s din\u00e1micas y sencillas. Ver m\u00e1s \u00b7 GESTI\u00d3N ACAD\u00c9MICA. Gestiona la informaci\u00f3n de los ...",
+            "snippet_highlighted_words": [
+                "Conecta con tu comunidad educativa"
+            ],
+            "source": "educa.city"
+        },
+        {
+            "position": 7,
+            "title": "Colegio San Juan Bosco, Arecibo PR",
+            "link": "https://boscoedu.org/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://boscoedu.org/&ved=2ahUKEwiAxoLrxbeRAxVDgP0HHa4lEYcQFnoECDYQAQ",
+            "displayed_link": "https://boscoedu.org",
+            "favicon": "https://serpapi.com/searches/693bc6be529e4bc51d80b3d8/images/6737f7f28636479db3a311228bb1a841634534e94a76cae7ccb97993aae30070.png",
+            "snippet": "Ubicados en la urbanizaci\u00f3n Jardines, calle R-Y-26, en Arecibo, ofrecemos un entorno en el que cada estudiante, desde Kinder hasta el 12\u00ba grado, puede crecer y ...",
+            "snippet_highlighted_words": [
+                "Ubicados en la urbanizaci\u00f3n Jardines, calle R-Y-26, en Arecibo"
+            ],
+            "source": "boscoedu.org"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=colegiosanjuanbosco.net&sca_esv=7b0828787f02e929&gl=us&hl=en&ei=v8Y7acDqAsOA9u8PrsvEuAg&start=10&sa=N&sstk=Af77f_chF6iuP4KG07d_pULEsOluuBG2xeXSs7kPB7tFAHSEsrL3-ml9syWzkwz3ttLQjQ7c0xjqg8KRYaSUxrCuoChAvO28W-Jo0Q&ved=2ahUKEwiAxoLrxbeRAxVDgP0HHa4lEYcQ8NMDegQICRAW",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=colegiosanjuanbosco.net&sca_esv=7b0828787f02e929&gl=us&hl=en&ei=v8Y7acDqAsOA9u8PrsvEuAg&start=10&sa=N&sstk=Af77f_chF6iuP4KG07d_pULEsOluuBG2xeXSs7kPB7tFAHSEsrL3-ml9syWzkwz3ttLQjQ7c0xjqg8KRYaSUxrCuoChAvO28W-Jo0Q&ved=2ahUKEwiAxoLrxbeRAxVDgP0HHa4lEYcQ8tMDegQICRAE",
+            "3": "https://www.google.com/search?q=colegiosanjuanbosco.net&sca_esv=7b0828787f02e929&gl=us&hl=en&ei=v8Y7acDqAsOA9u8PrsvEuAg&start=20&sa=N&sstk=Af77f_chF6iuP4KG07d_pULEsOluuBG2xeXSs7kPB7tFAHSEsrL3-ml9syWzkwz3ttLQjQ7c0xjqg8KRYaSUxrCuoChAvO28W-Jo0Q&ved=2ahUKEwiAxoLrxbeRAxVDgP0HHa4lEYcQ8tMDegQICRAG",
+            "4": "https://www.google.com/search?q=colegiosanjuanbosco.net&sca_esv=7b0828787f02e929&gl=us&hl=en&ei=v8Y7acDqAsOA9u8PrsvEuAg&start=30&sa=N&sstk=Af77f_chF6iuP4KG07d_pULEsOluuBG2xeXSs7kPB7tFAHSEsrL3-ml9syWzkwz3ttLQjQ7c0xjqg8KRYaSUxrCuoChAvO28W-Jo0Q&ved=2ahUKEwiAxoLrxbeRAxVDgP0HHa4lEYcQ8tMDegQICRAI",
+            "5": "https://www.google.com/search?q=colegiosanjuanbosco.net&sca_esv=7b0828787f02e929&gl=us&hl=en&ei=v8Y7acDqAsOA9u8PrsvEuAg&start=40&sa=N&sstk=Af77f_chF6iuP4KG07d_pULEsOluuBG2xeXSs7kPB7tFAHSEsrL3-ml9syWzkwz3ttLQjQ7c0xjqg8KRYaSUxrCuoChAvO28W-Jo0Q&ved=2ahUKEwiAxoLrxbeRAxVDgP0HHa4lEYcQ8tMDegQICRAK",
+            "6": "https://www.google.com/search?q=colegiosanjuanbosco.net&sca_esv=7b0828787f02e929&gl=us&hl=en&ei=v8Y7acDqAsOA9u8PrsvEuAg&start=50&sa=N&sstk=Af77f_chF6iuP4KG07d_pULEsOluuBG2xeXSs7kPB7tFAHSEsrL3-ml9syWzkwz3ttLQjQ7c0xjqg8KRYaSUxrCuoChAvO28W-Jo0Q&ved=2ahUKEwiAxoLrxbeRAxVDgP0HHa4lEYcQ8tMDegQICRAM",
+            "7": "https://www.google.com/search?q=colegiosanjuanbosco.net&sca_esv=7b0828787f02e929&gl=us&hl=en&ei=v8Y7acDqAsOA9u8PrsvEuAg&start=60&sa=N&sstk=Af77f_chF6iuP4KG07d_pULEsOluuBG2xeXSs7kPB7tFAHSEsrL3-ml9syWzkwz3ttLQjQ7c0xjqg8KRYaSUxrCuoChAvO28W-Jo0Q&ved=2ahUKEwiAxoLrxbeRAxVDgP0HHa4lEYcQ8tMDegQICRAO",
+            "8": "https://www.google.com/search?q=colegiosanjuanbosco.net&sca_esv=7b0828787f02e929&gl=us&hl=en&ei=v8Y7acDqAsOA9u8PrsvEuAg&start=70&sa=N&sstk=Af77f_chF6iuP4KG07d_pULEsOluuBG2xeXSs7kPB7tFAHSEsrL3-ml9syWzkwz3ttLQjQ7c0xjqg8KRYaSUxrCuoChAvO28W-Jo0Q&ved=2ahUKEwiAxoLrxbeRAxVDgP0HHa4lEYcQ8tMDegQICRAQ",
+            "9": "https://www.google.com/search?q=colegiosanjuanbosco.net&sca_esv=7b0828787f02e929&gl=us&hl=en&ei=v8Y7acDqAsOA9u8PrsvEuAg&start=80&sa=N&sstk=Af77f_chF6iuP4KG07d_pULEsOluuBG2xeXSs7kPB7tFAHSEsrL3-ml9syWzkwz3ttLQjQ7c0xjqg8KRYaSUxrCuoChAvO28W-Jo0Q&ved=2ahUKEwiAxoLrxbeRAxVDgP0HHa4lEYcQ8tMDegQICRAS",
+            "10": "https://www.google.com/search?q=colegiosanjuanbosco.net&sca_esv=7b0828787f02e929&gl=us&hl=en&ei=v8Y7acDqAsOA9u8PrsvEuAg&start=90&sa=N&sstk=Af77f_chF6iuP4KG07d_pULEsOluuBG2xeXSs7kPB7tFAHSEsrL3-ml9syWzkwz3ttLQjQ7c0xjqg8KRYaSUxrCuoChAvO28W-Jo0Q&ved=2ahUKEwiAxoLrxbeRAxVDgP0HHa4lEYcQ8tMDegQICRAU"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=colegiosanjuanbosco.net&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=colegiosanjuanbosco.net&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=colegiosanjuanbosco.net&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=colegiosanjuanbosco.net&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=colegiosanjuanbosco.net&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=colegiosanjuanbosco.net&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=colegiosanjuanbosco.net&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=colegiosanjuanbosco.net&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=colegiosanjuanbosco.net&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=colegiosanjuanbosco.net&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=colegiosanjuanbosco.net&start=90"
+        }
+    }
+}

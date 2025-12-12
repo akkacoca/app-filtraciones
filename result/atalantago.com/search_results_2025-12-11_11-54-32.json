@@ -1,0 +1,164 @@
+{
+    "search_metadata": {
+        "id": "693a99e697012152f698270b",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/5f370fd694b281ff/693a99e697012152f698270b.json",
+        "pixel_position_endpoint": "https://serpapi.com/searches/5f370fd694b281ff/693a99e697012152f698270b.json_with_pixel_position",
+        "created_at": "2025-12-11 10:16:06 UTC",
+        "processed_at": "2025-12-11 10:16:06 UTC",
+        "google_url": "https://www.google.com/search?q=atalantago.com&oq=atalantago.com&num=10&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/5f370fd694b281ff/693a99e697012152f698270b.html",
+        "total_time_taken": 1.36
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "atalantago.com",
+        "google_domain": "google.com",
+        "num": "10",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "atalantago.com",
+        "total_results": 15500,
+        "time_taken_displayed": 0.39,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Atalanta: Home",
+            "link": "https://atalantago.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://atalantago.com/&ved=2ahUKEwivkoD3prWRAxVFj2oFHYRADhgQFnoECCkQAQ",
+            "displayed_link": "https://atalantago.com",
+            "favicon": "https://serpapi.com/searches/693a99e697012152f698270b/images/dad16e00633636089c288aa15f8626a39a22361a9494633924570897c7b91cc8.png",
+            "snippet": "icono email sencillo blanco contacto@atalantago.com. Servicios. Ciberseguridad \u00b7 Digital \u00b7 Formaci\u00f3n. Actualidad. Noticias. Quienes somos. Qui\u00e9nes somos. \u00a92025 ...",
+            "snippet_highlighted_words": [
+                "atalantago.com"
+            ],
+            "sitelinks": {
+                "expanded": [
+                    {
+                        "title": "Qui\u00e9nes somos",
+                        "link": "https://atalantago.com/expertos-en-ciberseguridad-y-transformacion-digital/",
+                        "snippet": "icono email sencillo blanco contacto@atalantago.com ..."
+                    },
+                    {
+                        "title": "Oportunidades de Empleo",
+                        "link": "https://atalantago.com/oportunidades-de-empleo/",
+                        "snippet": "icono email sencillo blanco contacto@atalantago.com ..."
+                    },
+                    {
+                        "title": "Home - Atalanta",
+                        "link": "https://atalantago.com/home-2/",
+                        "snippet": "icono email sencillo blanco contacto@atalantago.com ..."
+                    },
+                    {
+                        "title": "Contacto",
+                        "link": "https://atalantago.com/expertos-seguridad-informatica-transformacion-digital/",
+                        "snippet": "icono email sencillo blanco contacto@atalantago.com ..."
+                    },
+                    {
+                        "title": "Transformaci\u00f3n digital",
+                        "link": "https://atalantago.com/tranformacion-digital-empresarial/",
+                        "snippet": "icono email sencillo blanco contacto@atalantago.com ..."
+                    }
+                ]
+            },
+            "source": "atalantago.com"
+        },
+        {
+            "position": 2,
+            "title": "Atalanta - Crunchbase Company Profile & Funding",
+            "link": "https://www.crunchbase.com/organization/atalanta",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.crunchbase.com/organization/atalanta&ved=2ahUKEwivkoD3prWRAxVFj2oFHYRADhgQFnoECBcQAQ",
+            "displayed_link": "https://www.crunchbase.com \u203a organization \u203a atalanta",
+            "favicon": "https://serpapi.com/searches/693a99e697012152f698270b/images/dad16e00633636089c288aa15f8626a3e7409729649eebd24916f253e611aecf.png",
+            "snippet": "Atalanta specializes in cybersecurity, digital transformation, consulting, and training services.",
+            "source": "Crunchbase"
+        },
+        {
+            "position": 3,
+            "title": "Atalanta",
+            "link": "https://es.linkedin.com/company/atalanta-ciberseguridad",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://es.linkedin.com/company/atalanta-ciberseguridad&ved=2ahUKEwivkoD3prWRAxVFj2oFHYRADhgQFnoECBkQAQ",
+            "displayed_link": "3.1K+ followers",
+            "favicon": "https://serpapi.com/searches/693a99e697012152f698270b/images/dad16e00633636089c288aa15f8626a31dcdb1a79ebaea711b6d4110047e33f0.png",
+            "snippet": "Atalanta es una compa\u00f1\u00eda especializada en ciberseguridad, transformaci\u00f3n digital y formaci\u00f3n. Compuesta por un equipo de expertos con una dilatada ...",
+            "source": "LinkedIn \u00b7 Atalanta"
+        },
+        {
+            "position": 4,
+            "title": "Red Team - Atalanta Academy",
+            "link": "https://atalantaacademy.com/course-category/red-team/?tutor-course-filter-category=42",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://atalantaacademy.com/course-category/red-team/%3Ftutor-course-filter-category%3D42&ved=2ahUKEwivkoD3prWRAxVFj2oFHYRADhgQFnoECCEQAQ",
+            "displayed_link": "https://atalantaacademy.com \u203a course-category \u203a red-team",
+            "favicon": "https://serpapi.com/searches/693a99e697012152f698270b/images/dad16e00633636089c288aa15f8626a3305c5880d85e475c2ab03749982303c7.png",
+            "snippet": "Suscr\u00edbete ahora. Copyright \u00a9 2025. Todos los derechos reservados por atalantago.com. AVISO LEGAL; |; POL\u00cdTICA DE PRIVACIDAD; |; POL\u00cdTICA DE COOKIES. Scroll to ...",
+            "snippet_highlighted_words": [
+                "atalantago.com"
+            ],
+            "source": "atalantaacademy.com"
+        },
+        {
+            "position": 5,
+            "title": "Atalanta | Cybersecurity & Digital Information",
+            "link": "https://rocketreach.co/atalanta-cybersecurity-digital-profile_b43da62bc19cbfc9",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://rocketreach.co/atalanta-cybersecurity-digital-profile_b43da62bc19cbfc9&ved=2ahUKEwivkoD3prWRAxVFj2oFHYRADhgQFnoECBgQAQ",
+            "displayed_link": "https://rocketreach.co \u203a ...",
+            "favicon": "https://serpapi.com/searches/693a99e697012152f698270b/images/dad16e00633636089c288aa15f8626a331ddf472cbe744aaea6d7e19d074ad06.png",
+            "snippet": "Atalanta es una compa\u00f1\u00eda especializada en ciberseguridad, transformaci\u00f3n digital y formaci\u00f3n. Compuesta por un equipo de expertos con una dilatada ...",
+            "source": "RocketReach"
+        },
+        {
+            "position": 6,
+            "title": "Working at Atalanta Evolution - Glassdoor.ie",
+            "link": "https://www.glassdoor.ie/Overview/Working-at-Atalanta-Evolution-SLU-EI_IE8943596.11,33.htm",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.glassdoor.ie/Overview/Working-at-Atalanta-Evolution-SLU-EI_IE8943596.11,33.htm&ved=2ahUKEwivkoD3prWRAxVFj2oFHYRADhgQFnoECBsQAQ",
+            "displayed_link": "https://www.glassdoor.ie \u203a Overview \u203a Working-at-Atal...",
+            "favicon": "https://serpapi.com/searches/693a99e697012152f698270b/images/dad16e00633636089c288aa15f8626a34d1d036b7cc2d38960eb02b9cee834b8.png",
+            "snippet": "Glassdoor gives you an inside look at what it's like to work at Atalanta Evolution, including salaries, reviews, office photos and more.",
+            "source": "glassdoor.ie"
+        },
+        {
+            "position": 7,
+            "title": "Atalanta go hear from us T",
+            "link": "https://www.facebook.com/groups/285289174996229/posts/2986890654836054/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/285289174996229/posts/2986890654836054/&ved=2ahUKEwivkoD3prWRAxVFj2oFHYRADhgQFnoECB8QAQ",
+            "displayed_link": "2 days ago",
+            "favicon": "https://serpapi.com/searches/693a99e697012152f698270b/images/dad16e00633636089c288aa15f8626a392e97460e0a3dcf872bcb6b4142312b8.png",
+            "snippet": "Having lost their last four games, Leeds United get a valuable three points and move out of the Premier League relegation zone with a 3-1 ...",
+            "source": "Facebook \u00b7 Chelsea Football Club (The Official Fan Group)"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=atalantago.com&sca_esv=a1c87ef6032d7104&ei=55k6ae-CDMWeqtsPhIG5wAE&start=10&sa=N&sstk=Af77f_dAg4aIr6GbzYQvsAwj_nd9w3NT3f37D1P4KIQGOfaaU8TzayOWw11kPNTV8Wai_GUvcX9Io5vQhJ5uF4NxHgHr42j6ZN9Jvw&ved=2ahUKEwivkoD3prWRAxVFj2oFHYRADhgQ8NMDegQICxAW",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=atalantago.com&sca_esv=a1c87ef6032d7104&ei=55k6ae-CDMWeqtsPhIG5wAE&start=10&sa=N&sstk=Af77f_dAg4aIr6GbzYQvsAwj_nd9w3NT3f37D1P4KIQGOfaaU8TzayOWw11kPNTV8Wai_GUvcX9Io5vQhJ5uF4NxHgHr42j6ZN9Jvw&ved=2ahUKEwivkoD3prWRAxVFj2oFHYRADhgQ8tMDegQICxAE",
+            "3": "https://www.google.com/search?q=atalantago.com&sca_esv=a1c87ef6032d7104&ei=55k6ae-CDMWeqtsPhIG5wAE&start=20&sa=N&sstk=Af77f_dAg4aIr6GbzYQvsAwj_nd9w3NT3f37D1P4KIQGOfaaU8TzayOWw11kPNTV8Wai_GUvcX9Io5vQhJ5uF4NxHgHr42j6ZN9Jvw&ved=2ahUKEwivkoD3prWRAxVFj2oFHYRADhgQ8tMDegQICxAG",
+            "4": "https://www.google.com/search?q=atalantago.com&sca_esv=a1c87ef6032d7104&ei=55k6ae-CDMWeqtsPhIG5wAE&start=30&sa=N&sstk=Af77f_dAg4aIr6GbzYQvsAwj_nd9w3NT3f37D1P4KIQGOfaaU8TzayOWw11kPNTV8Wai_GUvcX9Io5vQhJ5uF4NxHgHr42j6ZN9Jvw&ved=2ahUKEwivkoD3prWRAxVFj2oFHYRADhgQ8tMDegQICxAI",
+            "5": "https://www.google.com/search?q=atalantago.com&sca_esv=a1c87ef6032d7104&ei=55k6ae-CDMWeqtsPhIG5wAE&start=40&sa=N&sstk=Af77f_dAg4aIr6GbzYQvsAwj_nd9w3NT3f37D1P4KIQGOfaaU8TzayOWw11kPNTV8Wai_GUvcX9Io5vQhJ5uF4NxHgHr42j6ZN9Jvw&ved=2ahUKEwivkoD3prWRAxVFj2oFHYRADhgQ8tMDegQICxAK",
+            "6": "https://www.google.com/search?q=atalantago.com&sca_esv=a1c87ef6032d7104&ei=55k6ae-CDMWeqtsPhIG5wAE&start=50&sa=N&sstk=Af77f_dAg4aIr6GbzYQvsAwj_nd9w3NT3f37D1P4KIQGOfaaU8TzayOWw11kPNTV8Wai_GUvcX9Io5vQhJ5uF4NxHgHr42j6ZN9Jvw&ved=2ahUKEwivkoD3prWRAxVFj2oFHYRADhgQ8tMDegQICxAM",
+            "7": "https://www.google.com/search?q=atalantago.com&sca_esv=a1c87ef6032d7104&ei=55k6ae-CDMWeqtsPhIG5wAE&start=60&sa=N&sstk=Af77f_dAg4aIr6GbzYQvsAwj_nd9w3NT3f37D1P4KIQGOfaaU8TzayOWw11kPNTV8Wai_GUvcX9Io5vQhJ5uF4NxHgHr42j6ZN9Jvw&ved=2ahUKEwivkoD3prWRAxVFj2oFHYRADhgQ8tMDegQICxAO",
+            "8": "https://www.google.com/search?q=atalantago.com&sca_esv=a1c87ef6032d7104&ei=55k6ae-CDMWeqtsPhIG5wAE&start=70&sa=N&sstk=Af77f_dAg4aIr6GbzYQvsAwj_nd9w3NT3f37D1P4KIQGOfaaU8TzayOWw11kPNTV8Wai_GUvcX9Io5vQhJ5uF4NxHgHr42j6ZN9Jvw&ved=2ahUKEwivkoD3prWRAxVFj2oFHYRADhgQ8tMDegQICxAQ",
+            "9": "https://www.google.com/search?q=atalantago.com&sca_esv=a1c87ef6032d7104&ei=55k6ae-CDMWeqtsPhIG5wAE&start=80&sa=N&sstk=Af77f_dAg4aIr6GbzYQvsAwj_nd9w3NT3f37D1P4KIQGOfaaU8TzayOWw11kPNTV8Wai_GUvcX9Io5vQhJ5uF4NxHgHr42j6ZN9Jvw&ved=2ahUKEwivkoD3prWRAxVFj2oFHYRADhgQ8tMDegQICxAS",
+            "10": "https://www.google.com/search?q=atalantago.com&sca_esv=a1c87ef6032d7104&ei=55k6ae-CDMWeqtsPhIG5wAE&start=90&sa=N&sstk=Af77f_dAg4aIr6GbzYQvsAwj_nd9w3NT3f37D1P4KIQGOfaaU8TzayOWw11kPNTV8Wai_GUvcX9Io5vQhJ5uF4NxHgHr42j6ZN9Jvw&ved=2ahUKEwivkoD3prWRAxVFj2oFHYRADhgQ8tMDegQICxAU"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=atalantago.com&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=atalantago.com&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=atalantago.com&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=atalantago.com&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=atalantago.com&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=atalantago.com&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=atalantago.com&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=atalantago.com&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=atalantago.com&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=atalantago.com&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=10&q=atalantago.com&start=90"
+        }
+    }
+}
