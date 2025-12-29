@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Leak Monitor • Querys</title>
+  <link rel="stylesheet" href="../css/styles.css"/>
+</head>
+<body>
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="logo"></div>
+        <div>
+          <h1>Leak Monitor</h1>
+          <small>Frontend (estático)</small>
+        </div>
+      </div>
+
+      <nav class="nav">
+        <button id="navQuerys">Querys</button>
+        <a href="./leaks">Leaks</a>
+      </nav>
+
+      <hr class="sep"/>
+
+      <div class="badge" title="Datos guardados en localStorage">
+        <span class="dot ok"></span> Persistencia local
+      </div>
+    </aside>
+
+    <main class="main">
+      <div class="header">
+        <div>
+          <h2>Querys</h2>
+          <p>Crea y gestiona tus querys (dominio/keyword + type). Se guardan en <code>localStorage</code>.</p>
+        </div>
+      </div>
+
+      <section class="card">
+        <h3 style="margin:0 0 10px;">Nueva query</h3>
+
+        <div class="row">
+          <div>
+            <label for="qName">Nombre</label>
+            <input id="qName" placeholder="Ej: AtalantaGO - dominio principal"/>
+          </div>
+          <div>
+            <label for="qType">Type</label>
+            <select id="qType">
+              <option value="domain">domain</option>
+              <option value="keyword">keyword</option>
+              <option value="email">email</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="row" style="margin-top:10px;">
+          <div>
+            <label for="qValue">Valor (dominio/keyword/email)</label>
+            <input id="qValue" placeholder="Ej: atalantago.com / Atalanta / user@domain.com"/>
+          </div>
+        </div>
+
+        <div class="row" style="margin-top:10px;">
+          <button class="btn" id="btnAddQuery">Crear query</button>
+          <button class="btn btn-danger" id="btnClearQueries">Borrar todas</button>
+        </div>
+
+        <hr class="sep"/>
+
+        <h3 style="margin:0 0 10px;">Listado</h3>
+        <div id="queriesList" class="list"></div>
+      </section>
+
+      <p style="margin-top:12px; color:var(--muted);">
+        Tip: luego, tus procesos reales podrían leer estas querys para ejecutar búsquedas.
+      </p>
+    </main>
+  </div>
+
+  <script src="../js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+{
+    "queries": [
+        { "q": "example.", "type": "domain" },
+        { "q": "", "type": "" }
+    ]
+}

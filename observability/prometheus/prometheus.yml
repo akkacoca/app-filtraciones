@@ -1,0 +1,22 @@
+global:
+  scrape_interval: 15s
+
+scrape_configs:
+  - job_name: prometheus
+    static_configs:
+      - targets: ["prometheus:9090"]
+
+  # Host (EC2/VPS): CPU, RAM, disco, red, etc.
+  - job_name: node_exporter
+    static_configs:
+      - targets: ["node_exporter:9100"]
+
+  # Contenedores: CPU/RAM/red por contenedor, etc.
+  - job_name: cadvisor
+    static_configs:
+      - targets: ["cadvisor:8080"]
+
+  # Si tu app expone /metrics, lo dejamos preparado:
+  - job_name: "leak-monitor"
+    static_configs:
+      - targets: ["leak-monitor:8000"]

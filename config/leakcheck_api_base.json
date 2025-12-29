@@ -1,0 +1,7 @@
+{
+  "base_url": "https://leakcheck.io/api/v2/query",
+  "api_key": "",
+  "limit": 1000,
+  "timeout": 30,
+  "max_rps": 2
+}

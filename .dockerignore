@@ -1,0 +1,29 @@
+# Entorno y secretos
+.env
+*.env
+
+# Configs con secretos (reales)
+config/leakcheck_api.json
+config/emailjs_api.json
+
+# Por si guardas secrets fuera de config
+secrets/
+*.key
+*.pem
+*.p12
+
+# Resultados/estado (no versionar)
+result/
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db

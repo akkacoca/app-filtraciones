@@ -1,0 +1,16 @@
+{
+    "queries": [
+        {
+            "q": "atalantago.com",
+            "type": "domain"
+        },
+        {
+            "q": "colegiosanjuanbosco.net",
+            "type": "domain"
+        },
+        {
+            "q": "daniccoca@gmail.com",
+            "type": "email"
+        }
+    ]
+}

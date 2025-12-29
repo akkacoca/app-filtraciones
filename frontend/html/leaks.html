@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Leak Monitor • Leaks</title>
+  <link rel="stylesheet" href="../css/styles.css"/>
+</head>
+<body>
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="logo"></div>
+        <div>
+          <h1>Leak Monitor</h1>
+          <small>Leaks</small>
+        </div>
+      </div>
+
+      <nav class="nav">
+        <a href="./">Querys</a>
+        <button id="navLeaks">Leaks</button>
+      </nav>
+
+      <hr class="sep"/>
+
+      <div class="badge">
+        <span class="dot warn"></span> Vista de filtraciones
+      </div>
+    </aside>
+
+    <main class="main">
+      <div class="header">
+        <div>
+          <h2>Leaks</h2>
+          <p>Lista de filtraciones (demo desde <code>localStorage</code>). Expandir para ver detalles.</p>
+        </div>
+      </div>
+
+      <section class="card">
+        <div class="row">
+          <div>
+            <label for="statusFilter">Filtro principal</label>
+            <select id="statusFilter">
+              <option value="all">Todas</option>
+              <option value="new">Nuevas</option>
+              <option value="deleted">Eliminadas</option>
+            </select>
+          </div>
+          <div>
+            <label for="searchText">Buscar (dominio/keyword/source)</label>
+            <input id="searchText" placeholder="Ej: atalantago, Atalanta, demo-source"/>
+          </div>
+        </div>
+
+        <hr class="sep"/>
+
+        <div class="grid">
+          <details open class="card" style="padding:0; background:transparent; border:none;">
+            <summary style="list-style:none; cursor:pointer;">
+              <div class="badge"><span class="dot ok"></span> Filtraciones encontradas (Nuevas)</div>
+            </summary>
+            <div id="groupNew" class="list" style="margin-top:12px;"></div>
+          </details>
+
+          <details class="card" style="padding:0; background:transparent; border:none;">
+            <summary style="list-style:none; cursor:pointer;">
+              <div class="badge"><span class="dot danger"></span> Filtraciones eliminadas</div>
+            </summary>
+            <div id="groupDeleted" class="list" style="margin-top:12px;"></div>
+          </details>
+
+          <details class="card" style="padding:0; background:transparent; border:none;">
+            <summary style="list-style:none; cursor:pointer;">
+              <div class="badge"><span class="dot warn"></span> Todas</div>
+            </summary>
+            <div id="groupAll" class="list" style="margin-top:12px;"></div>
+          </details>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="../js/leaks.js"></script>
+</body>
+</html>

@@ -1,0 +1,91 @@
+##############################################################
+services:
+  leak-monitor:
+    build: .
+    container_name: leak-monitor
+    restart: unless-stopped
+    init: true
+    stop_grace_period: 30s
+    env_file:
+      - .env
+    volumes:
+      - ./result:/app/result
+      - ./config:/app/config
+    environment:
+      - TZ=Europe/Madrid
+      - METRICS_PORT=8000
+    expose:
+      - "8000"
+
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: prometheus
+    restart: unless-stopped
+    command:
+      - --config.file=/etc/prometheus/prometheus.yml
+      - --storage.tsdb.retention.time=7d
+    volumes:
+      - ./observability/prometheus/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - prometheus-data:/prometheus
+    # Si quieres ver Prometheus desde fuera para debug, abre el puerto:
+    ports:
+      - "9090:9090"
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      - GF_SECURITY_ADMIN_USER=${GRAFANA_ADMIN_USER}
+      - GF_SECURITY_ADMIN_PASSWORD=${GRAFANA_ADMIN_PASSWORD}
+    volumes:
+      - grafana-data:/var/lib/grafana
+      - ./observability/grafana/provisioning:/etc/grafana/provisioning:ro
+      - ./observability/grafana/dashboards:/etc/grafana/dashboards:ro
+
+    ports:
+      - "3000:3000"
+    depends_on:
+      - prometheus
+
+  node_exporter:
+    image: prom/node-exporter:latest
+    container_name: node_exporter
+    restart: unless-stopped
+    volumes:
+      - /:/host:ro
+    command:
+      - --path.rootfs=/host
+
+
+  cadvisor:
+    image: gcr.io/cadvisor/cadvisor:latest
+    container_name: cadvisor
+    restart: unless-stopped
+    privileged: true
+    volumes:
+      - /:/rootfs:ro
+      - /var/run:/var/run:ro
+      - /sys:/sys:ro
+      - /var/lib/docker/:/var/lib/docker:ro
+    # No expongas 8080 fuera (Prometheus lo scrapea dentro de Docker)
+
+  web-admin:
+    build: .
+    container_name: web-admin
+    restart: unless-stopped
+    command: ["python", "web_admin.py"]
+    volumes:
+      - ./config:/app/config
+      - ./result:/app/result
+      - ./web:/app/web
+    ports:
+      - "8081:8081"
+    environment:
+      - TZ=Europe/Madrid
+
+volumes:
+  grafana-data:
+  prometheus-data:

@@ -1,16 +1,20 @@
-FROM python:3.10-slim
+FROM python:3.12-slim
 
-# Establecemos el directorio de trabajo en el contenedor
-WORKDIR /app-filtraciones
+# Evita buffers (logs en tiempo real)
+ENV PYTHONUNBUFFERED=1
+ENV PYTHONDONTWRITEBYTECODE=1
 
-# Copiamos los archivos necesarios del proyecto al contenedor
-COPY . /app-filtraciones
+WORKDIR /app
 
-# Instalamos las dependencias desde el archivo requirements.txt
+# Instala dependencias
+COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Exponemos el puerto en el que la app escuchará
-EXPOSE 5000
+# Copia el código
+COPY . .
 
-# Definimos el comando para ejecutar la aplicación
+# Crea carpeta de resultados (por si acaso)
+RUN mkdir -p /app/result
+
+# Ejecuta tu main
 CMD ["python", "main.py"]
